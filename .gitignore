@@ -1,0 +1,67 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build / logs
+dist/
+build/
+*.log
+*.tmp
+*.bak
+
+# Secrets / env
+*.env
+.env
+.env.*
+
+# Archives and large binaries
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.iso
+*.exe
+*.dll
+*.bin
+
+# Git attributes and modules
+.gitmodules
+
+# Specific large files (example)
+SP59747*
+
+# PDFs, generated files, caches
+/assets/pdf/
+
+# End of file
+
+# Windows/FTP/IDE artifacts
+.ftpquota
+*.lnk
+*.url
+desktop.ini
+
+# FrontPage/Server extensions
+**/_vti_cnf/
+
+# Web server metadata
+stats/.htaccess
+
